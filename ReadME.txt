@@ -50,4 +50,3 @@ Contact:
 --------
 For questions or feedback, please contact:
 - abolfazl.sheikhoveisi@gmail.com
-- mohammadhoseinParvini@gmail.com
